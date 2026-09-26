@@ -137,3 +137,47 @@ Como ponto de melhoria, considero que o pipeline pode ser ampliado futuramente c
 ## Evidências de execução do pipeline
 
 A seguir são apresentadas evidências da execução do pipeline de Engenharia de Dados no Databricks, incluindo a persistência das tabelas utilizadas na Arquitetura Medalhão e os resultados obtidos nas análises realizadas.
+
+### Persistência das tabelas no Databricks
+
+O catálogo do Databricks evidencia a persistência das tabelas utilizadas nas três camadas da Arquitetura Medalhão: Bronze, Silver e Gold.
+
+![Tabelas persistidas no Databricks](01_tabelas_persistidas_databricks.png)
+
+### Camada Bronze
+
+As imagens a seguir apresentam evidências da ingestão e da validação inicial dos dados na camada Bronze.
+
+![Camada Bronze - Evidência 1](01_bronze.png)
+
+![Camada Bronze - Evidência 2](02_bronze.png)
+
+### Camada Silver
+
+As imagens a seguir apresentam etapas do tratamento, preparação e validação dos dados na camada Silver.
+
+![Camada Silver - Evidência 1](03_silver.png)
+
+![Camada Silver - Evidência 2](04_silver.png)
+
+![Camada Silver - Evidência 3](05_silver.png)
+
+![Camada Silver - Evidência 4](06_silver.png)
+
+### Análise do BMI
+
+As evidências abaixo apresentam a análise do BMI dos participantes considerando as classificações da variável Diabetes_012.
+
+![Análise do BMI - Evidência 1](07_analise_bmi.png)
+
+![Análise do BMI - Evidência 2](08_analise_bmi.png)
+
+### Camada Gold e resultados das análises
+
+As imagens a seguir apresentam os resultados consolidados das análises e a organização dos dados na camada Gold.
+
+![Camada Gold - Evidência 1](09_goldi.png)
+
+![Camada Gold - Evidência 2](010_gold.png)
+
+![Camada Gold - Evidência 3](011_gold.png)
