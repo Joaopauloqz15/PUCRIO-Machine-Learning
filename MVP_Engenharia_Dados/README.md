@@ -132,3 +132,8 @@ Considero que consegui atingir os principais objetivos propostos para este MVP. 
 Durante o desenvolvimento, também consegui aplicar na prática conceitos de Engenharia de Dados e relacionar este trabalho com o projeto de Machine Learning desenvolvido anteriormente utilizando a mesma base.
 
 Como ponto de melhoria, considero que o pipeline pode ser ampliado futuramente com novas transformações, análises e formas de automatização do processamento dos dados.
+
+
+## Evidências de execução do pipeline
+
+A seguir são apresentadas evidências da execução do pipeline de Engenharia de Dados no Databricks, incluindo a persistência das tabelas utilizadas na Arquitetura Medalhão e os resultados obtidos nas análises realizadas.
